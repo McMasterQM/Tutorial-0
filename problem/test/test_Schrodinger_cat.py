@@ -6,4 +6,4 @@ def test_schrodinger_cat():
     :return:
     """
     is_dead, is_alive = schrodinger_cat()
-     assert is_dead and is_alive is True
+    assert is_dead and is_alive is True
